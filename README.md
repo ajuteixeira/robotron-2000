@@ -10,7 +10,7 @@ Projeto desenvolvido durante o curso <b>"JavaScript: manipulando o DOM"</b> da A
 - onclick
 - forEach
 
-Com base no projeto inicial proposto, ainda adicionei diferenciais ao meu trabalho final de acaordo com os desafios propostos pelo instrutor:
+Com base no projeto inicial do curso, ainda adicionei diferenciais ao meu trabalho final de acordo com os desafios propostos pelo instrutor:
 - Tela de fundo personalizada
 - Troca de cor do robô ao ser clicado
 
