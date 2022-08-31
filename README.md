@@ -16,6 +16,4 @@ Com base no projeto inicial proposto, ainda adicionei diferenciais ao meu trabal
 
 <img src="img/pagina-robotron.png" width="100%">
 
-<br>
-
-# <center><a href="">Clique aqui para acessar o gerador de Robotron 2000 :)</a></center>
+# <a href="https://ajuteixeira.github.io/robotron-2000/">Clique aqui para acessar o gerador de Robotron 2000 :)</a>
